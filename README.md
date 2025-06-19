@@ -61,6 +61,24 @@ CHAT_ID=isi_chat_id_telegram
 
 ---
 
+## 🔍 Cara Membuat Bot Telegram
+
+1. Buka Telegram, cari bot **@BotFather**
+2. Kirim perintah:
+
+```
+/start
+/newbot
+```
+
+3. Ikuti instruksi untuk:
+
+   * Memberi nama bot (misal: Steam Case Bot)
+   * Membuat username bot (harus diakhiri dengan `bot`, contoh: `steamcaseprice_bot`)
+4. Setelah selesai, kamu akan menerima **BOT TOKEN** — simpan untuk `.env`
+
+---
+
 ## ▶️ Jalankan Bot
 
 ```bash
